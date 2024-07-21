@@ -23,33 +23,33 @@ NDBs:frequency:8421504:3.0:0:0:0
 Runways:centerline:9995111:3.5:0:0:7
 Runways:extended centerline:6444100:1.0:0:0:7
 Runways:name:11184810:3.5:0:0:7
-Datablock:non concerned:11908533:3.5:0:0:7
-Datablock:notified:9885590:3.5:0:0:7
-Datablock:assumed:16777215:3.5:0:0:7
-Datablock:transfer to me initiated:16744448:3.5:0:0:7
-Datablock:redundant:7915750:3.5:0:0:7
-Datablock:information:33023:3.5:0:0:7
-Datablock:even flight level:16777215:3.8:0:0:7
-Datablock:odd flight level:16777215:3.8:0:0:7
+Datablock:non concerned:9895936:3.5:0:0:7
+Datablock:notified:14803425:3.5:0:0:7
+Datablock:assumed:8716164:3.5:0:0:7
+Datablock:transfer to me initiated:15132390:3.5:0:0:7
+Datablock:redundant:8237552:3.5:0:0:7
+Datablock:information:65535:3.5:0:0:7
+Datablock:even flight level:16777215:3.5:0:0:7
+Datablock:odd flight level:16777215:3.5:0:0:7
 Datablock:arrivals:16777215:3.5:0:0:7
 Datablock:departures:16777215:3.5:0:0:7
-Datablock:user 1:16777215:3.8:0:0:7
-Datablock:user 2:16777215:3.8:0:0:7
-Datablock:user 3:16777215:3.8:0:0:7
-Datablock:user 4:16645629:3.8:0:0:7
-Datablock:user 5:16777215:3.8:0:0:7
-Datablock:user 6:16777215:3.8:0:0:7
-Datablock:emergency:3289855:3.8:0:0:7
-Datablock:ongoing requested by me:16777215:3.5:0:0:7
-Datablock:ongoing requested by other:16706048:3.5:0:0:7
-Datablock:ongoing accepted:2023740:3.5:0:0:7
-Datablock:ongoing refused:255:3.5:0:0:7
-Datablock:detailed background:3549991:3.5:0:0:7
-Datablock:active item background:3549991:3.5:0:0:7
+Datablock:user 1:16777215:3.5:0:0:7
+Datablock:user 2:16777215:3.5:0:0:7
+Datablock:user 3:16777215:3.5:0:0:7
+Datablock:user 4:16777215:3.5:0:0:7
+Datablock:user 5:16777215:3.5:0:0:7
+Datablock:user 6:16777215:3.5:0:0:7
+Datablock:emergency:3289855:3.5:0:0:7
+Datablock:ongoing requested by me:12615935:3.5:0:0:7
+Datablock:ongoing requested by other:8454016:3.5:0:0:7
+Datablock:ongoing accepted:65535:3.5:0:0:7
+Datablock:ongoing refused:65535:3.5:0:0:7
+Datablock:detailed background:11645361:3.5:0:0:7
+Datablock:active item background:10592673:3.5:0:0:7
 Datablock:arrival background:1395241:3.5:0:0:7
 Datablock:departure background:4264977:3.5:0:0:7
-Datablock:AC list background:1841688:3.5:0:0:14
-Datablock:AC list selected background:2696997:3.5:0:0:7
+Datablock:AC list background:6776679:3.5:0:0:7
+Datablock:AC list selected background:10530479:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
@@ -97,8 +97,8 @@ Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
 Sector:line:3292195:4.0:0:3:7
 Sector:msaw:32768:2.0:0:2:7
-Sector:active sector background:7631988:3.5:0:0:7
-Sector:inactive sector background:7237230:3.5:0:0:7
+Sector:active sector background:6710886:3.5:0:0:7
+Sector:inactive sector background:7105644:3.5:0:0:7
 SYMBOL:0
 SYMBOLITEM:ARC 0 0 5 0 360
 SYMBOLITEM:ARC 0 0 4 0 360
