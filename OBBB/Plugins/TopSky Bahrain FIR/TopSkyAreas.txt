@@ -9,9 +9,9 @@
 // To be used on the VATSIM Network only
 
 // Airspace Categories Definitions
-CATEGORYDEF:P:7:0:0:0:0:0:0:0:0:1:0
-CATEGORYDEF:R:7:0:0:0:0:0:0:0:0:1:0
-CATEGORYDEF:D:7:0:0:0:0:0:0:0:0:1:0
+CATEGORYDEF:P:6:0:0:0:0:0:0:0:0:1:0
+CATEGORYDEF:R:6:0:0:0:0:0:0:0:0:1:0
+CATEGORYDEF:D:6:0:0:0:0:0:0:0:0:1:0
 CATEGORYDEF:T:8:0:0:0:0:0:0:0:0:1:0
 
 // Prohibited Areas
