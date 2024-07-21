@@ -1,0 +1,93 @@
+// File created for the Arabian vACC - Bahrain FIR (OBBB)
+// Developed and maintained by Chriss Klosowski (1306415)
+//
+// Last Change by Chriss Klosowski
+//
+// Changelog:
+// 14/04/2024 - Initial Release
+//
+// To be used on the VATSIM Network only
+
+//Coasting track symbol
+SYMBOL:RPSC
+ARC:0:0:4:0:359
+
+//Hystory dot
+SYMBOL:RPSH
+FILLARC:0:0:1:0:360
+
+//Radar position symbol for PSR tracks
+SYMBOL:RPS1
+FILLARC:0:0:3:0:360
+
+//Radar position symbol for SSR(A) tracks
+SYMBOL:RPS2
+MOVETO:-4:-4
+LINETO:4:-4
+LINETO:4:4
+LINETO:-4:4
+LINETO:-4:-4
+
+//Radar position symbol for SSR(A) tracks with ident
+SYMBOL:RPS2I
+MOVETO:-4:-4
+LINETO:4:-4
+LINETO:4:4
+LINETO:-4:4
+LINETO:-4:-4
+MOVETO:0:-7
+LINETO:0:-11
+MOVETO:0:7
+LINETO:0:11
+MOVETO:-7:0
+LINETO:-11:0
+MOVETO:7:0
+LINETO:11:0
+
+//Radar position symbol for PSR+SSR(A) tracks
+SYMBOL:RPS3
+MOVETO:-4:-4
+LINETO:4:-4
+LINETO:4:4
+LINETO:-4:4
+LINETO:-4:-4
+
+//Radar position symbol for PSR+SSR(A) tracks with ident
+SYMBOL:RPS3I
+MOVETO:-4:-4
+LINETO:4:-4
+LINETO:4:4
+LINETO:-4:4
+LINETO:-4:-4
+MOVETO:0:-7
+LINETO:0:-11
+MOVETO:0:7
+LINETO:0:11
+MOVETO:-7:0
+LINETO:-11:0
+MOVETO:7:0
+LINETO:11:0
+
+//Radar position symbol for SSR(A) tracks
+SYMBOL:RPS4
+MOVETO:-4:-4
+LINETO:4:-4
+LINETO:4:4
+LINETO:-4:4
+LINETO:-4:-4
+
+//Radar position symbol for SSR(A) tracks with ident
+SYMBOL:RPS4I
+MOVETO:-4:-4
+LINETO:4:-4
+LINETO:4:4
+LINETO:-4:4
+LINETO:-4:-4
+MOVETO:0:-7
+LINETO:0:-11
+MOVETO:0:7
+LINETO:0:11
+MOVETO:-7:0
+LINETO:-11:0
+MOVETO:7:0
+LINETO:11:0

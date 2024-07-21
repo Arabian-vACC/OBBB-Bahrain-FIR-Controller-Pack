@@ -1,0 +1,82 @@
+PROFILE
+PROFILE:(INITIALS)_OBS:300:0
+ATIS2:Arabian vACC - Observer
+ATIS3:Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBB_1_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBB_CH_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBB_CL_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBB_2_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBB_E_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBB_3_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBB_N_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBB_FM_CTR:400:6
+ATIS2:"Bahrain Radar Flow Manager" - DO NOT CONTACT ME!
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBI_APP:150:5
+ATIS2:"Bahrain Approach"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBI_FM_APP:150:5
+ATIS2:"Bahrain Approach Planner" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBS_APP:150:5
+ATIS2:"Isa-Airbase Approach Radar"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBI_TWR:50:4
+ATIS2:"Bahrain Tower" - DCL [OBBI]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBI_FM_TWR:50:4
+ATIS2:"Bahrain Tower Planner" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBS_TWR:50:4
+ATIS2:"Isa-Airbase Tower"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBKH_TWR:50:4
+ATIS2:"Sakhir Tower"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBI_GND:20:3
+ATIS2:"Bahrain Ground" - DCL [OBBI]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBI_FM_GND:20:3
+ATIS2:"Bahrain Ground" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBI_DEL:20:2
+ATIS2:"Bahrain Delivery" - DCL [OBBI]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OBBI_FM_DEL:20:2
+ATIS2:"Bahrain Delivery" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+END
